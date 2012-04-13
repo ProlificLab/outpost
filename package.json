@@ -1,0 +1,18 @@
+{
+    "name": "outpost"
+  , "version": "0.0.1"
+  , "description": "Minimalistic client application to remote control node.js hook.io process with forever.js"
+  , "keywords": ["remote control", "control", "remote"]
+  , "author": "Christophe Harrer <c.harrer@prolificlab.com>"
+  , "dependencies": {
+      "forever": "> 0.0.1"
+    , "hook.io": "> 0.0.1"
+  }
+  , "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/ProlificLab/outpost.git"
+  }
+  , "homepage": "https://github.com/ProlificLab/outpost"
+  , "main": "index"
+  , "engines": { "node": ">= 0.6.0" }
+}
